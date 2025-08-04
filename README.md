@@ -1,6 +1,9 @@
-# Test Report – [Proyecto Final]
+## Proyecto Final Bootcamp QA Engineer | 2025
 
-Este repositorio contiene el reporte de pruebas funcionales realizadas para el proyecto **[Urban Scooter]**, gestionado inicialmente en Jira y documentado en Google Sheets.
+Proyecto enfocado en probar **Urban Scooter**, una aplicación digital de alquiler de scooters eléctricos.  
+Se validaron funcionalidades clave mediante **pruebas manuales** en tres entornos: **web, móvil y API**.
+
+Este repositorio contiene el reporte de pruebas funcionales realizadas para el proyecto, gestionado inicialmente en Jira y documentado en Google Sheets.
 
 ## 📄 Contenido
 
@@ -10,27 +13,34 @@ Este repositorio contiene el reporte de pruebas funcionales realizadas para el p
 - `Karina Nunez, 23vo grupo, Proyecto final.xlsx - Tarea 3 casos de prueba.pdf`: versión en PDF para visualización rápida y presentación.
 - `Karina Nunez, 23vo grupo, Proyecto final.xlsx - Tarea 4 lista de comprobación.pdf`: versión en PDF para visualización rápida y presentación.
 
-## 🧪 Alcance de la prueba
+### 🛠️ Tecnologías Utilizadas
+- Jira  
+- Postman  
+- DevTools  
+- Google Sheets  
+- Diseño de casos de prueba  
+- Pruebas de API  
+- Pruebas de UI  
+- Análisis de requisitos  
+- Testing funcional  
+- Clases de equivalencia  
+- Valores límite
+  
+### 🎯 Responsabilidades Clave
+- Análisis de documentación técnica  
+- Desglose de requisitos funcionales  
+- Diseño y ejecución de casos de prueba  
+- Pruebas funcionales en web, móvil y API  
+- Reporte de bugs en Jira  
+- Validación de datos con Postman y DevTools  
+- Documentación de resultados en Google Sheets
 
-- Tipo de pruebas: [Funcionales / Exploratorias / Regressión ]
-- Plataforma: [Web / Móvil / API]
-- Herramientas utilizadas:
-  - Google Sheets (documentación de pruebas)
-  - Jira (seguimiento de tareas)
-
-## ✅ Métricas clave
-
-- Total de casos de prueba: 173  
-- Casos ejecutados: 166  
-- Pasaron: 130  
-- Fallaron: 36  
-- Bloqueados: 7
+### 📈 Impacto / Logros
+- Diseño de **173 casos de prueba**  
+- Ejecución de **166 pruebas**  
+- Redacción de **36 reportes de errores** en Jira 
 
 ## 📎 Notas
 
 Las pruebas se realizaron antes de implementar una herramienta de gestión de pruebas integrada. Este reporte refleja el trabajo documentado manualmente.
-
-## 🌐 Autora
-
-Karina – QA Engineer  
-[https://www.linkedin.com/in/karina-nu%C3%B1ez-qa/]  
+ 
